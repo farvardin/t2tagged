@@ -1,10 +1,10 @@
 
 
+
 %!target: rst
 
 
 = marked =
-
 
 
 A full-featured txt2tags parser and compiler, written in JavaScript. Built for speed.
